@@ -187,7 +187,7 @@ Publish directory: `.next`
 ## Related Repositories
 
 - [AgenC Core](https://github.com/tetsuo-ai/AgenC) - The C agent framework
-- [AgenC Solana Program](https://github.com/tetsuo-ai/agenc-solana) - The on-chain coordination protocol
+- [AgenC Solana Program](https://github.com/tetsuo-ai/tree/main/programs/agenc-coordination) - The on-chain coordination protocol
 - [TETSUO Wallet SDK](https://github.com/Pavelevich/tetsuonpmwallet) - TETSUO blockchain wallet library
 
 ## Future Concepts: Video & Media Generation
@@ -260,7 +260,7 @@ These are open suggestions for team discussion. Feedback welcome on which direct
 - Always back up mnemonic phrases before clearing browser data
 - The coordination protocol is under active development and audit
 
-## Forged by Tetsuo Army
+## Forged by Tetsuo Army💊
 
 ## License
 
