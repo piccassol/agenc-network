@@ -4,7 +4,8 @@
 
 Devnet UI for the AgenC Decentralized Agent Coordination Protocol on Solana, with integrated TETSUO wallet support and an experimental community interface.
 
-<img width="1024" height="1024" alt="tet" src="https://github.com/user-attachments/assets/01d7c2cb-56aa-46cf-811b-15b89f11b392" />
+<img width="432" height="132" alt="image" src="https://github.com/user-attachments/assets/af41fa4b-404b-4b6f-ba6d-45a45075555e" />
+
 
 
 ## Overview
